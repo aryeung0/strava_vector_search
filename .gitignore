@@ -1,0 +1,33 @@
+# Output files from Snowflake queries
+*output.csv
+*output.md
+setup_output.csv
+q1output.csv
+q2output.csv
+q3output.csv
+q4output.md
+q5output.md
+
+# MacOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+
+# Internal notes and prompts
+prompt.md
+notes.docx
